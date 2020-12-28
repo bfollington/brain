@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "bf.wtf",
+  "alias": [
+    "www.bf.wtf",
+    "bf.wtf",
+    "wtf.bf.wtf"
+  ],
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/static-build",
+      "config": { "distDir": "public" }
+    }
+  ]
+}
