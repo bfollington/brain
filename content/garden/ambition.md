@@ -31,7 +31,7 @@ The short answer is, these are actually not mutually exclusive ideas. We just ha
 
 If we admit this, we can instead collect different ways of looking at the world. What if we built a toolkit and could switch between perspectives when it mattered most? Well, you might've heard someone bring up mental models recently, they're the new hotness online and we've accidentally discovered them right here. To be brief, a mental model is _a way of representing, understanding and reasoning about the world_. If you're interested in this topic I recommend listening to Shane Parish's [The Knowledge Project](https://fs.blog/the-knowledge-project/), specifically the episode with [Scott Page](https://fs.blog/scott-page/). Shane has [a lot to say about mental models](https://fs.blog/mental-models/). I'm still getting started with my understanding of this but for the sake of this discussion let's just talk about two models: 
 
-> One model is of a world that's flawed and must be endlessly improved.<br>
+> One model is of a world that's flawed and must be endlessly improved.<br />
 > The other of a world that is perfect and heart-achingly beautiful in its complexity.
 
 We can choose to take these, and an infinite number of other perspectives, and engage them when appropriate. For example, when I'm programming I tend to focus on my discontent, it gives me motivation to strive further and push my limits. Conversely, when I'm crying with laughter over dinner with friends, admiring the present moment seems like a much better fit. 
