@@ -5,11 +5,7 @@ image: "https://i.imgur.com/8pQwowX.jpg"
 description: "It's nothing personal"
 ---
 
-> This piece kind of embarasses me now, but I'm leaving it up here since it might be useful to someone still. 
-
 # There is no "You"
-
-## Preface
 
 ![](there-is-no-you_66194680.jpg)
 

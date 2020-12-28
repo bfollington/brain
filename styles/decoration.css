@@ -1,0 +1,12 @@
+hr {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+
+  border-top: 1px solid #eee;
+  height: 0;
+}
+
+.note-content .diagram {
+  text-align: center;
+}

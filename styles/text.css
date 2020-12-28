@@ -1,0 +1,57 @@
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a { 
+  text-decoration: none;
+}
+
+--link-hover-color: black;
+
+body.light-mode.light-mode {
+  --references-bg: #fdf6e3;
+  --references-bg-80: rgb(253,246,227, 0.8);
+  --references-bg-0: rgb(253,246,227, 0);
+}
+
+body.dark-mode {
+  --link-hover-color: white;
+}
+
+a, a:hover, a:active, a:visited {
+  color: var(--link-hover-color);
+}
+
+.autolink {
+  background-color: red !important;
+}
+
+.note-content a {
+  /* font-style: italic; */
+  text-decoration: underline;
+}
+
+.note-content blockquote {
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.note-content ul {
+  list-style-type: none;
+  margin-left: 0.5rem;
+}
+
+.note-content li {
+  margin-bottom: calc(0.4rem);
+}
+
+.note-content ul li:before {
+  content: "•";
+  font-size: 100%; /* or whatever */
+  padding-right: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  hyphens: auto;
+}

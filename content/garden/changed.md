@@ -9,7 +9,7 @@ description: "Dramatic title, I know."
 
 I like looking back. Not incessantly or obsessively but when I feel great appreciation for the way things _are_ it's natural to compare them to how things _were_. It's been a few years leading up to this point, where I can truly appreciate anything in the first place. You and I both, I imagine, have seen a lot change in that time. My life externally looks a little different but my internal experience has been completely transformed. It makes me wonder what kicked all this off.
 
-![](./no-one-ever-really-changes_66194703.jpg)
+![](no-one-ever-really-changes_66194703.jpg)
 
 I think, if I tried, I could draw a narrative thread back through my whole life to explain that. However, the major catalysing event was a conversation during the breakup of a *long* relationship in 2016. I'll keep it brief and dramatic by paraphrasing, she told me that:
 
@@ -54,7 +54,7 @@ The point I'm trying to get at is that you have to *want* to change. Not in a "o
 
 If you want to take charge of who you are then you should accept this: you can always try harder. Giving up cannot be an option that is even on the table. If you've defined a goal for yourself then you may try many paths before you find one that leads there but you can never stop pushing for the goal. When it comes to changing yourself, if you're not going to try as *hard as you can for as long as you can* then... It might not be worth trying at all.
 
-![](./no-one-ever-really-changes_66194714.jpg)
+![](no-one-ever-really-changes_66194714.jpg)
 
 # Ok, sure, I get it, I want to try
 

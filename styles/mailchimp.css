@@ -1,0 +1,10 @@
+.mc-email-field {
+  font-size: 16px;
+}
+
+.mc-subscribe-button {
+  background: none;
+  border: none;
+
+  font-weight: bold;
+}
